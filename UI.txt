@@ -15,7 +15,7 @@
 
         <TextView
             android:id="@+id/result_txt"
-            android:text = ""
+            android:text = "1378"
             android:textSize="40sp"
             android:layout_height="match_parent"
             android:layout_width="match_parent"
@@ -27,7 +27,7 @@
 
         <TextView
             android:id="@+id/operator_txt"
-            android:text = ""
+            android:text = "+"
             android:textSize="40sp"
             android:layout_height="match_parent"
             android:layout_width="match_parent"
@@ -180,7 +180,7 @@
                 />
             <Button
                 android:id="@+id/btn_equal"
-                android:text= "="
+                android:text="="
                 android:textSize="22sp"
                 android:layout_height="match_parent"
                 android:layout_margin="3dp"
